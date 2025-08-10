@@ -1,6 +1,6 @@
 #  Hi, I’m Haifa
 
- **Cybersecurity Analyst** 
+ **Cybersecurity Analyst** |
  Passionate about detection engineering, incident response, and threat hunting.
 
 ---
